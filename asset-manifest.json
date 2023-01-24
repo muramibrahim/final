@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/final/static/css/main.889f2e58.css",
+    "main.js": "/final/static/js/main.74f4a75c.js",
+    "static/js/787.1ed0c42c.chunk.js": "/final/static/js/787.1ed0c42c.chunk.js",
+    "static/media/batesting.png": "/final/static/media/batesting.5ed70cc4c1f28dd21369.png",
+    "static/media/personas2.png": "/final/static/media/personas2.d39147a6f5214c614ff3.png",
+    "static/media/personas.png": "/final/static/media/personas.88d24fa3b3740163d9a4.png",
+    "static/media/abtesting.png": "/final/static/media/abtesting.4d50a931ef9b5bc698ad.png",
+    "static/media/img1.png": "/final/static/media/img1.efed42e67fbd3c91523a.png",
+    "static/media/img2.png": "/final/static/media/img2.9ffb1e7268f52d4db0a1.png",
+    "static/media/img3.png": "/final/static/media/img3.5b2874a834a075ef6273.png",
+    "static/media/redesign3.png": "/final/static/media/redesign3.d067361e874c5a0f4413.png",
+    "static/media/redesign1.png": "/final/static/media/redesign1.c8afb7ff8a51c8b9dcef.png",
+    "static/media/redesign.png": "/final/static/media/redesign.33f20eb51f0ef82285e2.png",
+    "static/media/redesign2.png": "/final/static/media/redesign2.aa8351c51f0639d756a5.png",
+    "static/media/1.webp": "/final/static/media/1.4cb6cabe0a6f3edd5956.webp",
+    "index.html": "/final/index.html",
+    "main.889f2e58.css.map": "/final/static/css/main.889f2e58.css.map",
+    "main.74f4a75c.js.map": "/final/static/js/main.74f4a75c.js.map",
+    "787.1ed0c42c.chunk.js.map": "/final/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.889f2e58.css",
+    "static/js/main.74f4a75c.js"
+  ]
+}
